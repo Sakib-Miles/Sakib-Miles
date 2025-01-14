@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning in-depth and publication insights.
 - 💞️ I’m looking to collaborate on Computer Vision, IoT, Autonomous UAV, and Robotics.
 - 📫 Reach me on my LinkedIn (given on my start page) to get my mail and collab on exciting projects!
-- ⚡ Fun fact: I love to read books except textbooks!
+- ⚡ Fun fact: I love to read books EXCEPT textbooks!
 
 <!---
 Sakib-Miles/Sakib-Miles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
